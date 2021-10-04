@@ -1,7 +1,7 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
-/* import Footer from '../Footer/Footer';
-import MenuBar from '../MenuBar/MenuBar'; */
+
 
 const About = () => {
     const data = [
@@ -51,7 +51,7 @@ const About = () => {
     return (
         <div>
 
-            {/* <MenuBar></MenuBar> */}
+            
             <div className="row ">
                 <div className="col-md-6">
                     <h5>Top sell </h5>
@@ -84,8 +84,11 @@ const About = () => {
                         <h3>We are provide The best Course </h3>
                         <p>If you bye this course you can learn basic to advance every topic. that you can apply your job.</p>
                 </div>
+            <Link to={`/home`}>
+              
+              <button className="btn btn-primary mt-4">Home</button>
+              </Link>
             </div>
-            {/* <Footer></Footer> */}
         </div>
     );
 };

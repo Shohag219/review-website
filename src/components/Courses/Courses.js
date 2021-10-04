@@ -25,7 +25,11 @@ const Courses = () => {
             <h1>{course.title}</h1>
             <p>{course.description}</p>
             <Link to={`/details`}>
-            <button className="btn btn-primary mt-4">Detiels</button>
+            <button className="btn btn-primary mt-4 mr-2">Detiels</button>
+            </Link>
+            <Link to={`/home`}>
+              
+            <button className="btn btn-primary mt-4">Home</button>
             </Link>
           </div>
         </div>)
