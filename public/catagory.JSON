@@ -1,0 +1,22 @@
+[
+  {
+    "img": "http://skilify.theuxuidesigner.com/images/svg/pantone.svg",
+    "title": "Design",
+    "description": "Learn how to design your website. We have a wide range of designing courses from which you can select the best that suits you."
+  },
+  {
+    "img": "http://skilify.theuxuidesigner.com/images/svg/monitor.svg",
+    "title": "Development",
+    "description": "Learn how to develop your software and websites. We provide you with a wide range of different development courses that will help you to learn more."
+  },
+  {
+    "img": "http://skilify.theuxuidesigner.com/images/svg/shake.svg",
+    "title": "IT & Software",
+    "description": "If you want to learn something new in IT and Software, then this is the right place to help you with different IT and Software courses from which you can get the one for you."
+  },
+  {
+    "img": "http://skilify.theuxuidesigner.com/images/svg/cast.svg",
+    "title": "Technology",
+    "description": "There are various technologies which you need to learn if you want to stay in the race. Our courses will help you to learn more."
+  }
+]
