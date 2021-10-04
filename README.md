@@ -1,12 +1,12 @@
 
 
-# LIve site link  [Sport-website-live site-link](https://thirsty-murdock-bba58f.netlify.app/).
+# LIve site link  [Programming Website link](https://skilify-education.netlify.app/home/).
 
 # Programming Website
 
 # Getting Started with Create React App
 
-This project make react js with [Create React App](https://universitydetiels.netlify.app/).
+This project make react js with [Create React App](https://skilify-education.netlify.app/home/).
 
 - you can brought any application what you want to learn
 - this is Programming learning platfrom
