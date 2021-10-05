@@ -25,7 +25,7 @@ const Banner = () => {
       aria-describedby="basic-addon2"
     />
     <Button variant="primary" id="button-addon2">
-      Button
+      Search
     </Button>
   </InputGroup>
             </div>
