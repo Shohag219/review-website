@@ -19,11 +19,13 @@ const Details = () => {
 
         <div className="details">
             <MenuBar></MenuBar>
+            <h1 className="mb-3 mt-3">All the Course are here!!</h1>
             <div className="row mb-5">
                 {
                     details.map(detiel => <div className="col-md-4 mb-4" key={detiel.img}>
-                        
+
                         <div className="card">
+
                             <div className="image mb-3">
                                 <img src={detiel.img} alt="" />
                             </div>
