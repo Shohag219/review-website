@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { CartesianGrid, Legend, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import MenuBar from '../MenuBar/MenuBar';
 
 
 const About = () => {
@@ -52,12 +52,9 @@ const About = () => {
     <div>
 
 
-      <div className="row ">
+      <div className="row body ">
         <div className="home-btn">
-          <Link to={`/home`}>
-
-            <button className="btn btn-primary mt-4">Home</button>
-          </Link>
+          <MenuBar></MenuBar>
         </div>
         <div className="col-md-6">
           <h5>Top sell </h5>
