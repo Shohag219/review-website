@@ -1,5 +1,4 @@
 import React from "react";
-
 import Footer from "../Footer/Footer";
 import MenuBar from "../MenuBar/MenuBar";
 import "./Error.css";

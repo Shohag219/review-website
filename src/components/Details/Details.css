@@ -1,13 +1,36 @@
 .details{
-    /* height: 100vh; */
-    background-color: rgb(255, 105, 210);
+    background-color: rgb(243, 131, 209);
 }
 .image img{
     margin-top: 30px ;
     width: 200px;
 }
 .card{
-    height: 100%;
+    background-color: blanchedalmond;
+    margin: 10px;
+    height: 100%; 
+    border-radius: 10px;
+}
+
+.bg{
+    margin-bottom: 50px;
+}
+
+.view {
+    display: flex;
+    justify-content: center;
     
 }
+
+.view p{
+    margin-right: 40px;
+}
+.button{
+    margin: auto;
+    width: 200px;
+}
+.icon{
+    margin-right: 5px;
+}
+
 

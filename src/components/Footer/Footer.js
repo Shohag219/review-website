@@ -2,14 +2,14 @@ import React from "react";
 import "./Footer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faFacebookSquare,
-  faInstagramSquare,
+  faBehanceSquare,
+  faLinkedin,
   faTwitterSquare,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 import {
-  faPhoneVolume,
-  faMapMarkedAlt,
+  faMapMarker,
+  faPhone,
 } from "@fortawesome/free-solid-svg-icons";
 
 const Footer = () => {
@@ -23,7 +23,7 @@ const Footer = () => {
                 <h1>Skilify brands  </h1>
                 <div className="icons-container d-flex text-center ">
                   <div className="icon">
-                    <FontAwesomeIcon icon={faInstagramSquare} />
+                    <FontAwesomeIcon icon={faBehanceSquare} />
                   </div>
                   <div className="icon">
                     <FontAwesomeIcon icon={faTwitterSquare} />
@@ -32,7 +32,7 @@ const Footer = () => {
                     <FontAwesomeIcon icon={faYoutube} />
                   </div>
                   <div className="icon">
-                    <FontAwesomeIcon icon={faFacebookSquare} />
+                    <FontAwesomeIcon icon={faLinkedin} />
                   </div>
                 </div>
                 <p className="mt-4 ">
@@ -64,7 +64,7 @@ const Footer = () => {
                 />
                 <div className="phone d-flex align-items-center justify-content-center mt-4">
                   <div className="foter-phone-icon">
-                    <FontAwesomeIcon icon={faPhoneVolume} />
+                    <FontAwesomeIcon icon={faPhone} />
                   </div>
                   <div>
                     <h5>++123456789</h5>
@@ -72,7 +72,7 @@ const Footer = () => {
                 </div>
                 <div className="map d-flex align-items-center justify-content-center">
                   <div className="foter-phone-icon">
-                    <FontAwesomeIcon icon={faMapMarkedAlt} />
+                    <FontAwesomeIcon icon={faMapMarker} />
                   </div>
                   <div>
                     <p>

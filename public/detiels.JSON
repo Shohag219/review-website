@@ -5,7 +5,7 @@
     "view": "3500",
     "vidio": "12",
     "title": "Software Development From A to Z Beginner ",
-    "price": "$220.00",
+    "price": "220.00",
     "name": "Anna Sthesia"
   },
   {
@@ -14,7 +14,7 @@
     "view": "4900",
     "vidio": "9",
     "title": "Graphic Design Masterclass for Beginning ",
-    "price": "$50.00",
+    "price": "50.00",
     "name": "Paul Molive"
   },
   {
@@ -23,7 +23,7 @@
     "view": "8500",
     "vidio": "17",
     "title": "The Complete JavaScript Course Beginner ",
-    "price": "$50.00",
+    "price": "50.00",
     "name": "Paul Molive"
   },
   {
@@ -32,7 +32,7 @@
     "view": "4900",
     "vidio": "09",
     "title": "Learn Python Programming Beginner ",
-    "price": "$150.00",
+    "price": "150.00",
     "name": "Petey Cruiser"
   },
   {
@@ -41,16 +41,34 @@
     "view": "3300",
     "vidio": "07",
     "title": "Statistics Data Science and Business Analysis ",
-    "price": "$220.00",
+    "price": "220.00",
     "name": "Nicole Brown"
   },
   {
-    "img": "http://skilify.theuxuidesigner.com/images/webp/crd-img3.webp",
-    "ratting": "4.7",
-    "view": "7000",
-    "vidio": "15",
-    "title": "Statistics Data Science and Business Analysis ",
-    "price": "$70.00",
-    "name": "Anna Sthesia"
+    "img": "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+    "ratting": "4.9",
+    "view": "9000",
+    "vidio": "21",
+    "title": "React ",
+    "price": "170.00",
+    "name": "Shohag"
+  },
+  {
+    "img": "https://i.ytimg.com/vi/7CqJlxBYj-M/maxresdefault.jpg",
+    "ratting": "4.8",
+    "view": "8000",
+    "vidio": "20",
+    "title": "MERN stack ",
+    "price": "150.00",
+    "name": "Mahmudul"
+  },
+  {
+    "img": "https://image.freepik.com/free-vector/data-analyst-isometric-illustration-website-page_1124-1339.jpg",
+    "ratting": "4.9",
+    "view": "7500",
+    "vidio": "19",
+    "title": "Statistics Data Science  ",
+    "price": "110.00",
+    "name": " Sthesia"
   }
 ]
