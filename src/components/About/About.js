@@ -85,7 +85,9 @@ const About = () => {
         </div>
         <div className="col-md-6 mt-5">
           <h3>We are provide The best Course </h3>
-          <p>If you bye this course you can learn basic to advance every topic. that you can apply your job.</p>
+          <p>If you bye this course you can learn basic to advance every topic.
+            <br />
+             that you can apply your job.</p>
 
         </div>
 
